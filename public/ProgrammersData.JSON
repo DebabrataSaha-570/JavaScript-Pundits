@@ -1,0 +1,145 @@
+[
+    {
+        "id": 1,
+        "image": "https://i.ibb.co/xfkBhjd/david-wash.jpg",
+        "name": "David Walsh",
+        "role": "Full-Stack Engineer | Conference Speaker | Blogger",
+        "age": "34",
+        "country": "United States",
+        "salary": 83000,
+        "github": "https://github.com/darkwing",
+        "twitter": "https://twitter.com/davidwalshblog"
+    },
+    {
+        "id": 2,
+        "image": "https://i.ibb.co/ChndqtC/Piotr-Kowalski.jpg",
+        "name": "Piotr Kowalski",
+        "role": "JavaScript Developer | Blogger | YouTubber",
+        "age": "30",
+        "country": "Poland",
+        "salary": 70000,
+        "github": "https://github.com/piecioshka",
+        "twitter": "https://twitter.com/piecioshka"
+    },
+    {
+        "id": 3,
+        "image": "https://i.ibb.co/jwd3yqN/Szymon-Pi-kowski.jpg",
+        "name": "Szymon Piłkowski",
+        "role": "JavaScript Developer | Community Builder",
+        "age": "32",
+        "country": "Poland",
+        "salary": 50000,
+        "github": "https://github.com/ardcore",
+        "twitter": "https://twitter.com/ard"
+    },
+    {
+        "id": 4,
+        "image": "https://i.ibb.co/9hwzsbX/ben-nadel.webp",
+        "name": "Ben Nadel",
+        "role": "Principal Engineer | Blogger ",
+        "age": "28",
+        "country": "United States",
+        "salary": 58000,
+        "github": "https://github.com/BenNadel",
+        "twitter": "https://twitter.com/BenNadel"
+    },
+    {
+        "id": 5,
+        "image": "https://i.ibb.co/Z24977Y/tania-rascia.jpg",
+        "name": "Tania Rascia",
+        "role": "Software Engineer | Blogger",
+        "age": "33",
+        "country": "United States",
+        "salary": 70000,
+        "github": "https://github.com/taniarascia",
+        "twitter": ""
+    },
+    {
+        "id": 6,
+        "image": "https://i.ibb.co/HxvCW7y/sean-wang.jpg",
+        "name": "Shawn Wang",
+        "role": "JavaScript Developer ",
+        "age": "28",
+        "country": "United States",
+        "salary": 55000,
+        "github": "https://github.com/sw-yx",
+        "twitter": "https://twitter.com/swyx"
+    },
+    {
+        "id": 7,
+        "image": "https://i.ibb.co/chd3s6g/khritizan-moreno.jpg",
+        "name": "Khriztian Moreno",
+        "role": "JavaScript Developer ",
+        "age": "35",
+        "country": "United States",
+        "salary": 64000,
+        "github": "https://github.com/khriztianmoreno",
+        "twitter": "https://twitter.com/khriztianmoreno"
+    },
+    {
+        "id": 8,
+        "image": "https://i.ibb.co/ygFqJf5/wes-bos.jpg",
+        "name": "Wes Bos",
+        "role": "full Stack developer",
+        "age": "28",
+        "country": "Canada",
+        "salary": 56000,
+        "github": "https://github.com/wesbos",
+        "twitter": "https://twitter.com/wesbos"
+    },
+    {
+        "id": 9,
+        "image": "https://i.ibb.co/gzss47L/kent-c-dodds.jpg",
+        "name": "Kent C. Dodds",
+        "role": "JavaScript Engineer ",
+        "age": "30",
+        "country": "United States",
+        "salary": 63000,
+        "github": "https://github.com/kentcdodds",
+        "twitter": "https://twitter.com/kentcdodds/"
+    },
+    {
+        "id": 10,
+        "image": "https://i.ibb.co/mHcbs5c/robin-wieruch.jpg",
+        "name": "Robin Wieruch",
+        "role": "Freelance JavaScript ",
+        "age": "31",
+        "country": "Germany",
+        "salary": 43000,
+        "github": "https://github.com/rwieruch/",
+        "twitter": "https://twitter.com/rwieruch"
+    },
+    {
+        "id": 11,
+        "image": "https://i.ibb.co/41ySR2M/paolo-duzioni.jpg",
+        "name": "Paolo Duzioni ",
+        "role": "Freelance web developer",
+        "age": "35",
+        "country": "Hungary",
+        "salary": 59000,
+        "github": "https://github.com/paoloduzioni",
+        "twitter": "https://twitter.com/PaoloDuzioni"
+    },
+    {
+        "id": 12,
+        "image": "https://i.ibb.co/3pkt13k/sarah-drasner.jpg",
+        "name": "Sarah Drasner",
+        "role": "Core Developer Web at Google",
+        "age": "25",
+        "country": "United States",
+        "salary": 90000,
+        "github": "https://github.com/sdras",
+        "twitter": "https://twitter.com/sarah_edo"
+    },
+    {
+        "id": 13,
+        "image": "https://i.ibb.co/SBRrNHh/shruti-kapoor.jpg",
+        "name": "Shruti Kapoor",
+        "role": "Senior software engineer, PayPal",
+        "age": "27",
+        "country": "United States",
+        "salary": 99000,
+        "github": "https://github.com/shrutikapoor08",
+        "twitter": "https://twitter.com/shrutikapoor08?lang=en"
+    }
+]
