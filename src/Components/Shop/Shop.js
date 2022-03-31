@@ -7,10 +7,10 @@ const Shop = () => {
         <div className='container'>
 
             <div className="row">
-                <div className="col-md-7">
+                <div className="col-md-9">
                     <Programmers></Programmers>
                 </div>
-                <div className="col-md-4">
+                <div className="col-md-3">
                     <Cart></Cart>
                 </div>
             </div>
