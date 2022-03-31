@@ -2,8 +2,11 @@ import React from 'react';
 
 const Header = () => {
     return (
-        <div>
-            <h3>This is header component</h3>
+        <div className='text-center py-2'>
+
+            <h2>A global network of javaScript Pundits</h2>
+            <h3>Total Budget: $ 1 Million</h3>
+
         </div>
     );
 };
