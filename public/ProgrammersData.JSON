@@ -66,17 +66,6 @@
         "twitter": "https://twitter.com/swyx"
     },
     {
-        "id": 7,
-        "image": "https://i.ibb.co/chd3s6g/khritizan-moreno.jpg",
-        "name": "Khriztian Moreno",
-        "role": "JavaScript Developer ",
-        "age": "35",
-        "country": "United States",
-        "salary": 64000,
-        "github": "https://github.com/khriztianmoreno",
-        "twitter": "https://twitter.com/khriztianmoreno"
-    },
-    {
         "id": 8,
         "image": "https://i.ibb.co/ygFqJf5/wes-bos.jpg",
         "name": "Wes Bos",

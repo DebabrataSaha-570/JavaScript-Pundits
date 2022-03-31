@@ -13,10 +13,11 @@ const Programmers = () => {
     }, [])
     return (
         <div>
-            <h3>This is programmers component : {programmers.length}</h3>
-            {
-                programmers.map(programmer => <SingleProgrammer key={programmer.id}></SingleProgrammer>)
-            }
+            <div className="row">
+                {
+                    programmers.map(programmer => <SingleProgrammer key={programmer.id} programmer={programmer}></SingleProgrammer>)
+                }
+            </div>
         </div>
     );
 };
