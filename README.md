@@ -1,6 +1,6 @@
 # JavaScript Pundits
 
-Live site link: 
+Live site link: https://javascript-pundits.netlify.app/
 
 ## what this website about?
 - Many programmers and their information. 
