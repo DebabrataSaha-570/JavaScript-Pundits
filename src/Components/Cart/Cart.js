@@ -5,7 +5,7 @@ import { faCoffee, faXmark } from '@fortawesome/free-solid-svg-icons'
 import './Cart.css'
 import swal from 'sweetalert';
 const Cart = (props) => {
-    const { cart, handleDeleteProgrammer } = props;
+    const { cart, handleDeleteProgrammer, setCart } = props;
 
     let total = 0;
     for (const programmer of cart) {
@@ -15,6 +15,7 @@ const Cart = (props) => {
 
     const handleBookNow = () => {
         swal("Team booked successfully!", " ", "success");
+        setCart([])
     }
     return (
         <div>

@@ -33,7 +33,7 @@ const Shop = () => {
                         ></Programmers>
                     </div>
                     <div className="col-md-3 ">
-                        <Cart cart={cart} handleDeleteProgrammer={handleDeleteProgrammer}></Cart>
+                        <Cart cart={cart} setCart={setCart} handleDeleteProgrammer={handleDeleteProgrammer}></Cart>
                     </div>
                 </div>
             </div>
