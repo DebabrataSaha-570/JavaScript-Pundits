@@ -13,7 +13,7 @@ const SingleProgrammer = (props) => {
         <div class=" col-md-4 col-sm-6 mb-5 text-center ">
             <div class="bg-white rounded shadow py-5 px-4"><img src={image} alt="" width="100" class="img-fluid rounded-circle mb-3 img-thumbnail shadow-sm" />
                 <h5 class="mb-0">{name} </h5>
-                <span class="small  text-muted">{role}</span>
+                <span class="small text-color ">{role}</span>
                 <br />
                 <span class="small  text-muted">Salary: ${salary}</span>
                 <br />

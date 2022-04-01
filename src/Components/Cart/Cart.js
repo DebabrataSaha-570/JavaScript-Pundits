@@ -3,6 +3,7 @@ import ReactDOM from 'react-dom'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { faCoffee, faXmark } from '@fortawesome/free-solid-svg-icons'
 import './Cart.css'
+import swal from 'sweetalert';
 const Cart = (props) => {
     const { cart, handleDeleteProgrammer } = props;
 
@@ -12,6 +13,9 @@ const Cart = (props) => {
 
     }
 
+    const handleBookNow = () => {
+        swal("Team booked successfully!", " ", "success");
+    }
     return (
         <div>
             <h4>Programmers Added: {cart.length}</h4>
@@ -27,6 +31,10 @@ const Cart = (props) => {
                     </div>
                 ))
             }
+
+            <div className='text-center'>
+                {cart.length > 0 && <button onClick={handleBookNow} className='btn btn-secondary '>Book now</button>}
+            </div>
         </div>
     );
 };

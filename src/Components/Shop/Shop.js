@@ -27,12 +27,12 @@ const Shop = () => {
             <div className='container'>
 
                 <div className="row">
-                    <div className="col-md-9">
+                    <div className="col-md-9 ">
                         <Programmers programmers={programmers} handleAddToCart={handleAddToCart}
 
                         ></Programmers>
                     </div>
-                    <div className="col-md-3">
+                    <div className="col-md-3 ">
                         <Cart cart={cart} handleDeleteProgrammer={handleDeleteProgrammer}></Cart>
                     </div>
                 </div>
