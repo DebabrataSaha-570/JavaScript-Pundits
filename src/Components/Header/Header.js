@@ -4,7 +4,7 @@ const Header = () => {
     return (
         <header >
 
-            <h2>Make a team of JavaScript Pundits</h2>
+            <h2>Make a Team of JavaScript Pundits</h2>
             <h3>Total Budget: $ 1 Million</h3>
 
         </header>
