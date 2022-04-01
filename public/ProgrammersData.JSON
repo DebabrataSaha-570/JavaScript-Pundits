@@ -8,7 +8,8 @@
         "country": "United States",
         "salary": 83000,
         "github": "https://github.com/darkwing",
-        "twitter": "https://twitter.com/davidwalshblog"
+        "twitter": "https://twitter.com/davidwalshblog",
+        "linkedin": "https://www.linkedin.com/in/davidjameswalsh/"
     },
     {
         "id": 2,
@@ -19,7 +20,8 @@
         "country": "Poland",
         "salary": 70000,
         "github": "https://github.com/piecioshka",
-        "twitter": "https://twitter.com/piecioshka"
+        "twitter": "https://twitter.com/piecioshka",
+        "linkedin": "https://www.linkedin.com/in/markow85/"
     },
     {
         "id": 3,
@@ -30,7 +32,8 @@
         "country": "Poland",
         "salary": 50000,
         "github": "https://github.com/ardcore",
-        "twitter": "https://twitter.com/ard"
+        "twitter": "https://twitter.com/ard",
+        "linkedin": "https://www.linkedin.com/in/ardcore/"
     },
     {
         "id": 4,
@@ -41,7 +44,8 @@
         "country": "United States",
         "salary": 58000,
         "github": "https://github.com/BenNadel",
-        "twitter": "https://twitter.com/BenNadel"
+        "twitter": "https://twitter.com/BenNadel",
+        "linkedin": "https://www.linkedin.com/in/bennadel/"
     },
     {
         "id": 5,
@@ -52,7 +56,8 @@
         "country": "United States",
         "salary": 70000,
         "github": "https://github.com/taniarascia",
-        "twitter": ""
+        "twitter": "https://twitter.com/taniarascia",
+        "linkedin": "https://www.linkedin.com/in/taniarascia/"
     },
     {
         "id": 6,
@@ -63,7 +68,8 @@
         "country": "United States",
         "salary": 55000,
         "github": "https://github.com/sw-yx",
-        "twitter": "https://twitter.com/swyx"
+        "twitter": "https://twitter.com/swyx",
+        "linkedin": "https://www.linkedin.com/in/shawn-wang-05135515/"
     },
     {
         "id": 8,
@@ -74,7 +80,8 @@
         "country": "Canada",
         "salary": 56000,
         "github": "https://github.com/wesbos",
-        "twitter": "https://twitter.com/wesbos"
+        "twitter": "https://twitter.com/wesbos",
+        "linkedin": "https://www.linkedin.com/in/wesbos/"
     },
     {
         "id": 9,
@@ -85,7 +92,8 @@
         "country": "United States",
         "salary": 63000,
         "github": "https://github.com/kentcdodds",
-        "twitter": "https://twitter.com/kentcdodds/"
+        "twitter": "https://twitter.com/kentcdodds/",
+        "linkedin": "https://www.linkedin.com/in/kentcdodds/"
     },
     {
         "id": 10,
@@ -96,7 +104,8 @@
         "country": "Germany",
         "salary": 43000,
         "github": "https://github.com/rwieruch/",
-        "twitter": "https://twitter.com/rwieruch"
+        "twitter": "https://twitter.com/rwieruch",
+        "linkedin": "https://www.linkedin.com/in/robin-wieruch-971933a6/"
     },
     {
         "id": 11,
@@ -107,7 +116,8 @@
         "country": "Hungary",
         "salary": 59000,
         "github": "https://github.com/paoloduzioni",
-        "twitter": "https://twitter.com/PaoloDuzioni"
+        "twitter": "https://twitter.com/PaoloDuzioni",
+        "linkedin": "https://www.linkedin.com/in/paolo-duzioni-a3162716a/"
     },
     {
         "id": 12,
@@ -118,7 +128,8 @@
         "country": "United States",
         "salary": 90000,
         "github": "https://github.com/sdras",
-        "twitter": "https://twitter.com/sarah_edo"
+        "twitter": "https://twitter.com/sarah_edo",
+        "linkedin": "https://www.linkedin.com/in/sarahdrasner/"
     },
     {
         "id": 13,
@@ -129,6 +140,7 @@
         "country": "United States",
         "salary": 99000,
         "github": "https://github.com/shrutikapoor08",
-        "twitter": "https://twitter.com/shrutikapoor08?lang=en"
+        "twitter": "https://twitter.com/shrutikapoor08?lang=en",
+        "linkedin": "https://www.linkedin.com/in/shrutikapoor08/"
     }
 ]

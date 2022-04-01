@@ -5,7 +5,7 @@ import { faCoffee, faShoppingCart } from '@fortawesome/free-solid-svg-icons'
 import './SingleProgrammer.css'
 
 const SingleProgrammer = (props) => {
-    const { id, name, image, role, age, country, salary, github, twitter } = props.programmer
+    const { id, name, image, role, age, country, salary, github, twitter, linkedin } = props.programmer
 
 
     return (
@@ -22,9 +22,11 @@ const SingleProgrammer = (props) => {
                 <button onClick={() => props.handleAddToCart(props.programmer)} className='btn btn-secondary my-3'>  <FontAwesomeIcon icon={faShoppingCart} /> Add To cart</button>
                 <ul class="social mb-0 list-inline mt-2">
 
-                    <li class="list-inline-item"><a href={twitter} class="social-link"><i class="fa fa-twitter"></i></a></li>
-                    <li class="list-inline-item"><a href={github} class="social-link"><i class="fa fa-github"></i></a></li>
-                    <li class="list-inline-item"><a href="" class="social-link"><i class="fa fa-linkedin"></i></a></li>
+                    <li class="list-inline-item"><a href={twitter} target="_blank" class="social-link"><i class="fa fa-twitter"></i></a>
+                    </li>
+                    <li class="list-inline-item"><a href={github} target="_blank" class="social-link"><i class="fa fa-github"></i></a></li>
+
+                    <li class="list-inline-item"><a href={linkedin} target="_blank" class="social-link"><i class="fa fa-linkedin"></i></a></li>
                 </ul>
 
             </div>
